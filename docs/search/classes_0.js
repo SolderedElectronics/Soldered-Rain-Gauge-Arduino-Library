@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html',1,'']]]
+  ['raingauge_0',['RainGauge',['../class_rain_gauge.html',1,'']]]
 ];

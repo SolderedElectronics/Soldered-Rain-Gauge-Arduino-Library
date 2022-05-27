@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['gethourlystatistic_0',['getHourlyStatistic',['../class_rain_gauge.html#a5dbfa337cc7294ab40ce8f5774006dfa',1,'RainGauge']]],
+  ['getinstance_1',['GetInstance',['../class_rain_gauge.html#a0209ed6334e9b8b7196e7ddbb30df1bb',1,'RainGauge']]],
+  ['getstarthours_2',['getStartHours',['../class_rain_gauge.html#a08b2bf45c038c3ed5876638497362961',1,'RainGauge']]]
 ];

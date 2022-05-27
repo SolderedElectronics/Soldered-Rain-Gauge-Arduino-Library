@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['native_0',['native',['../class_easy_c.html#abb766b60f26778dbc64e8792fd754729',1,'EasyC']]],
-  ['naziv_20proizvoda_20arduino_20library_1',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['pin_0',['pin',['../class_rain_gauge.html#aaaf341984c00d10855239704b515b3f3',1,'RainGauge']]],
+  ['prevhours_1',['prevHours',['../class_rain_gauge.html#aff9672b87f34162cb43f25a6b0860db5',1,'RainGauge']]]
 ];

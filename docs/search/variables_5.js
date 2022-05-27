@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['pin_0',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]]
+  ['start_0',['start',['../class_rain_gauge.html#ab0882a40f6b471891d4252b3c84a39d5',1,'RainGauge']]],
+  ['starthours_1',['startHours',['../class_rain_gauge.html#a77178b339ee2851fd3fe47dc64cdedc2',1,'RainGauge']]]
 ];

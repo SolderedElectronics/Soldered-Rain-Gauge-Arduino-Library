@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['err_0',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['pin_0',['pin',['../class_rain_gauge.html#aaaf341984c00d10855239704b515b3f3',1,'RainGauge']]],
+  ['prevhours_1',['prevHours',['../class_rain_gauge.html#aff9672b87f34162cb43f25a6b0860db5',1,'RainGauge']]]
 ];
