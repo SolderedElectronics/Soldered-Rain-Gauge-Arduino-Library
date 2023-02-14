@@ -48,7 +48,7 @@ void RainGauge::reset()
 
 void RainGauge::tip()
 {
-    if (counterHourly != startHours )
+    if (counterHourly != startHours)
     {
         counterHourly = ((millis() - start) / 1000 + startHours) % 24;
         hourlyQty[counterHourly]++;
@@ -83,7 +83,7 @@ void RainGauge::setStartHours(uint8_t _start)
 bool RainGauge::doneMeasuring()
 {
     counterHourly = ((millis() - start) / 1000 + startHours) % 24;
-    if (counterHourly == startHours )
+    if (counterHourly == startHours)
         done = 1;
     return done;
 }
